@@ -1,8 +1,8 @@
-#Pure Source Public License (PSPL)
+Pure Source Public License (PSPL)
 
 Pure Source Public License (PSPL) is a software license designed to ensure that software reaches users as 100% open, readable, and pure source code, while explicitly prohibiting closed binary blobs, shim/wrapper layers, and proprietary driver components.
 
-#Why PSPL?
+Why PSPL?
 Many software projects in the open-source ecosystem introduce hidden binary blobs or wrapper (shim/wrapper) layers connected to proprietary libraries, which compromises complete source code transparency.
 
 PSPL is designed to eliminate this issue:
@@ -35,6 +35,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 Pure Source Public License for more details.
 
 You should have received a copy of the Pure Source Public License along
-with this program; if not, see <https://github.com/yigit-mehmet2/pspl>.
+with this program; if not, see <https://github.com/yigit-mehmet2/PSPL>.
 License Text
 The full text of the PSPL v1.0 license can be found in the LICENSE file.
